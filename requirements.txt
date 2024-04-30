@@ -15,3 +15,10 @@ chainconsumer
 
 ### MCMC Packages
 eryn
+
+### LISA specific packages
+git+ssh://git@gitlab.in2p3.fr/lisa-simulation/constants.git@latest
+git+ssh://git@gitlab.in2p3.fr/lisa-simulation/orbits.git@v2.2
+git+ssh://git@gitlab.in2p3.fr/lisa-simulation/gw-response.git@latest
+git+ssh://git@gitlab.in2p3.fr/lisa-simulation/instrument.git@latest
+pytdi
