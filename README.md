@@ -1,5 +1,18 @@
 LISA Sprint 2024 project on distinguishing glitches from GW bursts
 
+## Monday Plenary
+GW bursts vs glitches: how do you distinguish them?
+* Astrophysical vs instrumental signal → does it have a sky location?
+
+Reproduce results from Cornish 2019
+- non-ringing LPF-like glitches
+- different GW bursts models (e.g. highly eccentric binaries (Xuan 2024))
+
+## Tuesday Plenary
+Analysis of bursts & glitches
+- Chat with Xuan/Smadar about burst models
+- Chat with Neil about bayesian analysis of bursts/glitches
+- Setting up the sampler
 
 ## Useful Papers
 <ins>Zero signal solution (and references)</ins>
