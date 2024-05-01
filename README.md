@@ -14,6 +14,19 @@ Analysis of bursts & glitches
 - Chat with Neil about bayesian analysis of bursts/glitches
 - Setting up the sampler
 
+## Wednesday morning
+### Conversatin with Zeyuan Xhan
+- Periodic bursts from highly eccentric binaries
+    - Depending on the binary parameters it can be a sharper Sine-Gaussian or a single-sided bursts
+    - The Sine-Gaussian is a good approximation for a toy model
+- Periodicity of the bursts:
+    - ranging from a few hours to up to a month
+    - the peak of the distribution is ~ day
+- Amplitude of the bursts in strain:
+    - ~ 1e-21
+- The periodic burst in strain is either $h_+$ or $h_\times$ or the combination $h_+ + i h_\times$.
+- Unsure about the fraction of systems that might give rise to these bursts --> not sure about the amount of events LISA might get.
+
 ## Useful Papers
 <ins>Zero signal solution (and references)</ins>
 
